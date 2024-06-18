@@ -11,6 +11,7 @@ The system is built around several key components:
 4. **12V DC Mini Water Pump**: This pump irrigates the plants when activated.
 5. **12V DC Power Supply**: Powers the entire system.
 6. **Breadboard and Jumper Wires**: Used for connecting components in the circuit.
+<img src="soil_moisture_sensor.jpeg">
 
 #### Operational Theory
 
