@@ -22,4 +22,6 @@ The Arduino Uno continuously monitors the readings from the soil moisture sensor
 
 The automatic watering system is versatile and can be employed in various settings, including home gardens, agricultural fields, and hydroponic systems. Its cost-effectiveness and ease of use make it an attractive solution for both amateur gardeners and professional farmers. By automating the watering process, this system reduces labor, saves time, and helps maintain consistent soil moisture levels, ultimately improving plant health and yield.
 
-Link to the demonstration of the project ---->  https://youtu.be/FpwaZPWnEtA
+> For more details, have a look at the project report.
+
+> Link to the demonstration of the project ---->  https://youtu.be/FpwaZPWnEtA
